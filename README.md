@@ -1,6 +1,6 @@
 ## Oliver Nguyen
 
-### CEO of Fantasy Tech
+#### 梦想的建造者
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvanux&show_icons=true&icons=true&theme=ambient_gradient&locale=cn&rank_icon=github&card_width=640)
 
